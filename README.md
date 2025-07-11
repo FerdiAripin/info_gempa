@@ -43,4 +43,5 @@ Semua data diambil langsung dari endpoint JSON milik BMKG, antara lain:
 ## 🎬 Tampilan Aplikasi
 
 🎥 **Demo YouTube:**  
-[Lihat Video Demo Aplikasi di Sini]([https://www.youtube.com/watch?v=LINK_YOUTUBE_KAMU](https://youtu.be/7taOLaTHZqo))
+[Lihat Video Demo Aplikasi di Sini](https://youtu.be/7taOLaTHZqo)
+
